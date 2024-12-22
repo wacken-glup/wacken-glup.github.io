@@ -1,4 +1,4 @@
-![Wacken GLUP](/images/title.png)
+![Wacken GLUP](https://github.com/wacken-glup/wacken-glup/blob/main/images/title.png)
 ---
 ![GitHub](https://img.shields.io/github/license/wacken-glup/wacken-glup?style=for-the-badge) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/wacken-glup/wacken-glup?style=for-the-badge)
 
