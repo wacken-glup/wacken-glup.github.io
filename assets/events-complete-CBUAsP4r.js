@@ -1,0 +1,1 @@
+const t=[{title:"Concert",uid:1},{title:"Party",uid:2},{title:"Spoken Word",uid:3},{title:"Film",uid:4},{title:"Meet & Greet",uid:9},{title:"Action",uid:10},{title:"Walking Acts",uid:11}];export{t as default};
